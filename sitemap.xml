@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc />
+    <lastmod>2025-08-17</lastmod>
+  </url>
+  <url oeid="5c348634-911f-4856-aba0-16f4544fe7c7" oelang="DEFAULT">
+    <loc>index.htm</loc>
+    <lastmod>2025-08-17</lastmod>
+  </url>
+  <url oeid="d4c0796f-cf3d-4cc5-bd3d-7e5876292681" oelang="DEFAULT">
+    <loc>Registrarse.htm</loc>
+    <lastmod>2025-08-17</lastmod>
+  </url>
+  <url oeid="4485e8d0-55bc-4fe4-b2db-b0126e567f84" oelang="DEFAULT">
+    <loc>Iniciar sesion.htm</loc>
+    <lastmod>2025-08-17</lastmod>
+  </url>
+</urlset>
